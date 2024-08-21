@@ -13,7 +13,7 @@ body{
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
-	background: #6364ff;
+	background: #FFECDF;
 }
 
 body::-webkit-scrollbar, #scrollDiv::-webkit-scrollbar, #content::-webkit-scrollbar, .fixed::-webkit-scrollbar, #scrollCV::-webkit-scrollbar{
